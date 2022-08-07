@@ -11,3 +11,7 @@ attic/
 wasp/boards/*/watch.py
 .idea
 .vscode
+
+.venv
+build-*
+
